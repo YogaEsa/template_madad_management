@@ -60,6 +60,10 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.my-color {
+  background-color: #495057;
+}
+
 article,
 aside,
 figcaption,
